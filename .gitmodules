@@ -1,0 +1,8 @@
+# Marlin FW
+[submodule "Firmware"]
+	path = Firmware
+	url = https://github.com/ultimachine/Marlin
+	branch = Archimajor
+[submodule "parts_library"]
+	path = parts_library
+	url = https://hub.allspice.io/ProductDevelopmentFirm/Parts_library
